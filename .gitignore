@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# 操作系統
+.DS_Store
+Thumbs.db
